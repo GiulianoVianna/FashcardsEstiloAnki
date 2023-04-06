@@ -8,17 +8,10 @@ A aplicação desenvolvida é um flashcard virtual estilo Anki, que permite o us
 
 ## Bibliotecas
 <ul>
-    <li>Python</li>
-    <li>OpenCV</li>
-    <li>NumPy</li>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-    <li>Scikit-learn</li>
-    <li>Keras</li>
-    <li>TensorFlow</li>
-    <li>PyQt5</li>
-    <li>SQLite3</li>
-    <li>Random</li>
+  <li>sys</li>
+  <li>random</li>
+  <li>sqlite3</li>
+  <li>PyQt5</li>
 </ul>
 
 #### Bibliotecas que precisam ser instaladas:
